@@ -10,5 +10,3 @@ Connect to IP and port on which web server is running and append following comma
   
 `/shutdown` starts a shutdown for 60 seconds  
 `/cancel` cancels started shutdown
-
-This simple program is a 
